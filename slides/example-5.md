@@ -1,0 +1,12 @@
+###### **"SLIDE"**
+
+# ADVANCED
+
+You still don't need Chrome Headless.
+
+#### **"ANTI-BOT PROTECTION"**
+* CLOUDFLARE
+* DISTIL NETWORKS
+* AKAMAI
+* INCAPSULA
+* (IN)VISIBLE RECAPTCHA
