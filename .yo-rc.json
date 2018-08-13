@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "How to scrape",
+    "packageVersion": "1.0.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "doprdele",
+    "githubRepository": "iqss-scraping-presentation"
+  }
+}
