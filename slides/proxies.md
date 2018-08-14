@@ -9,7 +9,7 @@ Boston and New York.
 
 Dedicated, rotating datacenter proxies.
 
-Compliance with HIPAA and HUIT security guidelines.
+Compliance with FERPA and HUIT security guidelines.
 
 #### **"LUMINATI"**
 
